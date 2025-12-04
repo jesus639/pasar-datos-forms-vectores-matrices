@@ -12,6 +12,10 @@ El objetivo general es practicar el uso de formularios en Java, paso de datos, v
 El formulario menu es la ventana principal de la aplicacion.
 Desde aqui el usuario puede seleccionar entre varias acciones como:
 
+Generar Matriz 
+
+Generar Vector
+
 Mostrar el mayor de varios numeros
 
 Mostrar el mayor valor ingresado
