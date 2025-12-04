@@ -1,6 +1,7 @@
 # pasar-datos-forms-vectores-matrices
-calcular datos de matrices y vectores
-Descripcion del proyecto “FormularioMenu”
+Descripcion del proyecto 
+
+Calcular datos con matrices y vectores
 
 Este proyecto es una aplicacion en Java Swing que muestra un menu principal con varias opciones para realizar operaciones matematicas y visualizar diferentes resultados. Esta organizado en multiples formularios, cada uno encargado de una funcion especifica.
 
